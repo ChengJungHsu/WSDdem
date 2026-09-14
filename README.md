@@ -4,7 +4,7 @@ generate dem raster file around waisanding barrier island from single beam bathy
 - inputfile: demo_xyz.csv (epsg:3826)
 - region of interesting polygon: roi.geojson
 - main program script_dem_2.py
- -output: raster geotiff (fig.1) and validation screen print and outlier_report_files
+- output: raster geotiff (fig.1) and validation screen print and outlier_report_files
 
 <img width="940" height="473" alt="螢幕擷取畫面 2026-09-14 101744" src="https://github.com/user-attachments/assets/fbe53daa-983b-4e84-8778-5dc2b787b607" />
 
